@@ -121,10 +121,13 @@ The application provides a complete role-based experience with authentication, r
 
 ---
 
-# ⚙️ Git Repository
+# ⚙️ Installation
 
+## Clone Repository
+
+```bash
 git clone https://github.com/Akanksha9104/Store-Rating-Platform.git
-
+```
 
 ## Backend
 
