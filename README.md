@@ -110,13 +110,13 @@ The application provides a complete role-based experience with authentication, r
 
 
 ```md
-![Login]("C:\Users\91876\OneDrive\Pictures\Screenshots\Screenshot 2026-06-17 133635.png")
+![Login](screenshots/login.png)
 
-![Admin Dashboard]("C:\Users\91876\OneDrive\Pictures\Screenshots\Screenshot 2026-06-17 133658.png")
+![Admin Dashboard]("screenshots/admin.png)
 
-![User Dashboard]("C:\Users\91876\OneDrive\Pictures\Screenshots\Screenshot 2026-06-17 133739.png")
+![User Dashboard](screenshots/user.png)
 
-![Owner Dashboard]("C:\Users\91876\OneDrive\Pictures\Screenshots\Screenshot 2026-06-17 133755.png")
+![Owner Dashboard](screenshots/owner.png)
 ```
 
 ---
