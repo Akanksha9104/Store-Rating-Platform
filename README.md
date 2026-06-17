@@ -110,7 +110,7 @@ The application provides a complete role-based experience with authentication, r
 
 
 
-![Login](screenshots/admin.png)
+![Login](screenshots/login.png)
 
 ![Admin Dashboard](screenshots/admin.png)
 
