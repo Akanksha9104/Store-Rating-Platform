@@ -109,10 +109,10 @@ The application provides a complete role-based experience with authentication, r
 # 📸 Screenshots
 
 
-```md
+
 ![Login](screenshots/admin.png)
 
-![Admin Dashboard]("screenshots/admin.png)
+![Admin Dashboard](screenshots/admin.png)
 
 ![User Dashboard](screenshots/user.png)
 
